@@ -24,5 +24,7 @@
         "psr-0": {
             "Bllim\\Datatables": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
